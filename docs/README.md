@@ -1,4 +1,4 @@
-![Book_logo](book_cover_small.png)
+## Ordering Information
 
 ## Artech House
 ISBN: 9781630818647 
@@ -6,6 +6,8 @@ ISBN: 9781630818647
 Copyright: 2022
 
 [Order Now](https://us.artechhouse.com/Introduction-to-Synthetic-Aperture-Radar-Using-Python-and-MATLAB-P2293.aspx)
+
+![Book_logo](book_cover_small.png)
 
 ## Python®
 
