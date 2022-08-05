@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Introduction to Synthetic Aperture Radar Using Python and MATLAB
 
-You can use the [editor on GitHub](https://github.com/SARBook/software/edit/main/docs/README.md) to maintain and preview the content for your website in Markdown files.
+## Artech House Publisher
+ISBN: 9781630818647 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Copyright: 2022
 
-### Markdown
+[Order Now](https://us.artechhouse.com/Introduction-to-Synthetic-Aperture-Radar-Using-Python-and-MATLAB-P2293.aspx)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Book_logo](book_cover_small.png)
 
-```markdown
-Syntax highlighted code block
+## Python®
 
-# Header 1
-## Header 2
-### Header 3
+The Python tools were developed with [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb).  The  tool  suite  makes  use  of  packages  including  SciPy,  NumPy and  Matplotlib. 
 
-- Bulleted
-- List
+## MATLAB®
 
-1. Numbered
-2. List
+The MATLAB Live Editor scripts associated with this  text  were  developed  with  R2020b  and  do  not  require  any  additional  toolboxes. The folder structure for the MATLAB and Python scripts is identical.  or more information on MATLAB visit [MathWorks®](https://www.mathworks.com/).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SARBook/software/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## DATA
+Data for examples are hosted by AFRL's [Sendor Data Management System] [https://www.sdms.afrl.af.mil/index.php](https://www.sdms.afrl.af.mil/index.php), provided by [ICEYE] (https://www.iceye.com/), and [Tripoint Industries] (http://tripointindustries.com/).
