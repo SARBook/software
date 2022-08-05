@@ -1,4 +1,4 @@
-## Ordering Information
+## Introduction to Synthetic Aperture Radar Using Python and MATLAB
 
 ### Artech House
 ISBN: 9781630818647 
