@@ -1,0 +1,5 @@
+*.mat
+*.sig
+*checkpoint*
+*_pycache_*
+LoadMonostaticSignatureFile.m
